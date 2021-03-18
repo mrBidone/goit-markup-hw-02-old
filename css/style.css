@@ -80,6 +80,7 @@ body {
 	line-height: 1.36;
 	letter-spacing: 0.06em;
 	text-align: center;
+	text-transform: uppercase;
 	color: var(--dark-bg-text-color);
 }
 
@@ -95,6 +96,10 @@ body {
 }
 
 .list-title {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 1,14;
+	text-transform: uppercase;
 	color: var(--secondary-text-color); 
 }
 
