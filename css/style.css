@@ -130,6 +130,7 @@ body {
 	line-height: 1.19;
 	letter-spacing: 0.03em;
 	text-align: center;
+	text-transform: none; 
 }
 .our-team .team-item {
 	font-size: 16px;
